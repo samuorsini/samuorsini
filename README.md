@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Samuca
 
 - 👨‍🎓 Estudante de Gestão da Tecnologia da Informação
-- ✍ Estudando HTML, CSS, JS e Python
+- ✍ Estudando HTML, CSS, JS e BOOTSTRAP
 - 💻 Conhecimento intermediário em desenvolvimento front-end
 
 ##

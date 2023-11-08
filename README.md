@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Estudante de Gestão da Tecnologia da Informação
 - ✍ Estudando HTML, CSS, JS e BOOTSTRAP
-- 💻 Conhecimento intermediário em desenvolvimento front-end
 
 ##
 

@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/samuorsini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuorsini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
